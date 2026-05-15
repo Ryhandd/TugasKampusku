@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeRefresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailData">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="30dp"
+                android:src="@drawable/student1" />
+
+            <TextView 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:text="Nomor" 
+                android:textColor="#808080" 
+                android:textSize="12sp" />
+                
+            <LinearLayout 
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal" 
+                android:gravity="center_vertical">
+
+                <ImageView 
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/pen" />
+
+                <TextView 
+                    android:id="@+id/text_nomor" 
+                    android:layout_width="match_parent" 
+                    android:layout_height="wrap_content" 
+                    android:layout_marginStart="10dp"
+                    android:padding="10dp" 
+                    android:text="-" 
+                    android:textSize="16sp" 
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+            <View 
+                android:layout_width="match_parent" 
+                android:layout_height="1dp" 
+                android:background="#C0C0C0"/>
+
+            <TextView 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:text="Nama" 
+                android:layout_marginTop="20dp" 
+                android:textColor="#808080"
+                android:textSize="12sp" />
+
+            <LinearLayout 
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal" 
+                android:gravity="center_vertical">
+
+                <ImageView 
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/user"/>
+                
+                <TextView 
+                    android:id="@+id/text_nama" 
+                    android:layout_width="match_parent" 
+                    android:layout_height="wrap_content" 
+                    android:layout_marginStart="10dp" 
+                    android:padding="10dp" 
+                    android:text="-" 
+                    android:textSize="16sp" 
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+            <View 
+                android:layout_width="match_parent" 
+                android:layout_height="1dp" 
+                android:background="#C0C0C0"/>
+
+            <TextView 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:text="Tanggal Lahir" 
+                android:layout_marginTop="20dp" 
+                android:textColor="#808080" 
+                android:textSize="12sp" />
+
+            <LinearLayout 
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal" 
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/calendar" />
+
+                <TextView 
+                    android:id="@+id/text_tgl" 
+                    android:layout_width="match_parent" 
+                    android:layout_height="wrap_content" 
+                    android:layout_marginStart="10dp" 
+                    android:padding="10dp" 
+                    android:text="-" 
+                    android:textSize="16sp" 
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+            <View 
+                android:layout_width="match_parent" 
+                android:layout_height="1dp" 
+                android:background="#C0C0C0"/>
+
+            <TextView 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:text="Jenis Kelamin" 
+                android:layout_marginTop="20dp" 
+                android:textColor="#808080"
+                android:textSize="12sp" />
+
+            <LinearLayout 
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal" 
+                android:gravity="center_vertical">
+
+                <ImageView 
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/gender"/>
+
+                <TextView 
+                    android:id="@+id/text_jk" 
+                    android:layout_width="match_parent" 
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp" 
+                    android:padding="10dp" 
+                    android:text="-" 
+                    android:textSize="16sp" 
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+            <View 
+                android:layout_width="match_parent" 
+                android:layout_height="1dp" 
+                android:background="#C0C0C0"/>
+
+            <TextView 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:text="Alamat" 
+                android:layout_marginTop="20dp" 
+                android:textColor="#808080" 
+                android:textSize="12sp" />
+
+            <LinearLayout 
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content" 
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView 
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/location"/>
+
+                <TextView 
+                    android:id="@+id/text_alamat" 
+                    android:layout_width="match_parent" 
+                    android:layout_height="wrap_content" 
+                    android:layout_marginStart="10dp" 
+                    android:padding="10dp" 
+                    android:text="-" 
+                    android:textSize="16sp" 
+                    android:textColor="#000000"/>
+            </LinearLayout>
+
+            <View 
+                android:layout_width="match_parent" 
+                android:layout_height="1dp" 
+                android:background="#C0C0C0"/>
+
+            <LinearLayout
+                android:id="@+id/btn_pindah_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginTop="30dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <ImageView 
+                    android:layout_width="24dp" 
+                    android:layout_height="24dp" 
+                    android:src="@drawable/update"/>
+
+                <TextView 
+                    android:layout_width="wrap_content" 
+                    android:layout_height="wrap_content" 
+                    android:layout_marginStart="8dp" 
+                    android:text="UBAH DATA" 
+                    android:textColor="@color/blue_primary" 
+                    android:textSize="16sp" 
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

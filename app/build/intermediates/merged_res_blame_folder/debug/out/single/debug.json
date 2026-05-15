@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_updatedata.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_updatedata.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_detaildata.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_detaildata.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_inputdata.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_inputdata.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_location.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_informasi.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_informasi.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_pen.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\pen.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_save.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\save.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_stylebutton1.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\stylebutton1.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_lihat.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\lihat.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_student1.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\student1.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_stylebutton3.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\stylebutton3.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_calendar.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_splashscreen.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_input.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\input.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_info.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_add.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kampusku.app-merged_res-32:/layout_activity_inputdata.xml.flat",
+        "source": "com.example.kampusku.app-main-34:/layout/activity_inputdata.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\layout_activity_datamahasiswa.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\layout\\activity_datamahasiswa.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_login_background.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_stylebutton2.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\stylebutton2.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_update.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\update.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_user.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-merged_res-32:\\drawable_gender.png.flat",
+        "source": "D:\\Gradle_Cache\\daemon\\8.7\\com.example.kampusku.app-main-34:\\drawable\\gender.png"
+    }
+]

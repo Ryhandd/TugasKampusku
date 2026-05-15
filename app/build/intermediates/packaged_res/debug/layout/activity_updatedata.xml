@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".UpdateData">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <TextView 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Nomor"
+            android:textColor="#808080"
+            android:textSize="12sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/pen"/>
+            <EditText android:id="@+id/edit_nomor" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="number" android:layout_marginStart="10dp" android:background="@null" android:paddingTop="10dp" android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#C0C0C0"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Nama" android:layout_marginTop="20dp" android:textColor="#808080" android:textSize="12sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/user" />
+            <EditText android:id="@+id/edit_nama" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="10dp" android:background="@null" android:paddingTop="10dp" android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#C0C0C0"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Tanggal Lahir" android:layout_marginTop="20dp" android:textColor="#808080" android:textSize="12sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/calendar" />
+            <EditText android:id="@+id/edit_tgl" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="1993-12-08" android:layout_marginStart="10dp" android:background="@null" android:paddingTop="10dp" android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#C0C0C0"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Jenis Kelamin" android:layout_marginTop="20dp" android:textColor="#808080" android:textSize="12sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/gender" />
+            <EditText android:id="@+id/edit_jk" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="L atau P" android:layout_marginStart="10dp" android:background="@null" android:paddingTop="10dp" android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#C0C0C0"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Alamat" android:layout_marginTop="20dp" android:textColor="#808080" android:textSize="12sp"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/location" />
+            <EditText android:id="@+id/edit_alamat" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="10dp" android:background="@null" android:paddingTop="10dp" android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#C0C0C0"/>
+
+        <LinearLayout
+            android:id="@+id/btn_update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="30dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/update" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="UBAH"
+                android:textColor="@color/blue_primary"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
