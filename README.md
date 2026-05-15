@@ -36,4 +36,4 @@ Aplikasi ini menggunakan SQLite untuk penyimpanan lokal.
 * Program Studi: Teknik Informatika
 
 ---
-*Tugas Pemrograman Mobile - 2026*
+*Dokumentasi ini dibuat untuk keperluan akademik - 2026*
